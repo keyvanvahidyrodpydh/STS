@@ -1,0 +1,49 @@
+STS dataset
+
+______________________
+Data fields:
+userID (15 - 1625, some missing)
+itemID (1 -498, some missing)
+rating (1-5)
+user's gender (1=male, 2= female)
+birthDate  6 levels: <18, 18-25, 26-39, 40-54, 55-69, and 70+
+category
+crowdedness: crowded, not crowded, empty
+knowledge of surroundings: new to area, returning visitor, citizen of the area
+creationDate
+
+time available: half day, one day, more than one day
+season: spring, summer, autumn, winter
+daytime: morning, noon, afternoon, evening, night
+weather: clear sky, sunny, cloudy, rainy, thunderstorm, snowing
+temperature: burning, hot, warm, cool, cold, freezing
+mood: happy, sad, active, lazy weekday: weekday, weekend
+emotionalStability
+transport: no transportation , a bicycle, a car, public transport
+budget: budget traveler, price for quality, high spender
+agreeableness
+opennessToExperience
+companion: alone, with friends/colleagues, with family, with girlfriend/boyfriend, with children
+distance: far away, near by
+travel goal: visiting friends, business, religion, health care, social event, education, scenic/landscape, hedonistic/fun, activity/sport
+
+_______________________
+Context variables:
+
+time available
+season
+daytime
+weather
+temperature
+mood
+emotionalStability
+transport
+budget
+agreeableness
+opennessToExperience
+companion
+distance
+travel goal
+_______________________
+Missing value:
+-1
